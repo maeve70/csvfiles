@@ -1,2 +1,2 @@
 # csvfiles
-csv's for Colab notebooks
+csv's for various Colab notebooks. mostly for small(er) CC projects.
